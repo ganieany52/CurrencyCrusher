@@ -10,7 +10,9 @@ Overview:
 Currency Crusher is designed to help Salesforce owners keep their non corporate currency price book entries aligned with their corporate currency price book entries by using the latest exchange rates. 
 
 How Currency Crusher Works: 
-Currency Crusher uses sophisticated logic to ensure your non corporate currency Price Book Entries always reflect the latest exchange rates. Below is the high level logic:
+Currency Crusher uses sophisticated logic to ensure your non corporate currency Price Book Entries always reflect the latest exchange rates. 
+
+High level logic:
 Automatically detects the organization's corporate currency
 For every active Price Book in the org, it goes through each active Product in that Price Book one at a time. 
 It finds the Price Book Entry using the Corporate Currency and uses that as the Base Price. 
