@@ -18,4 +18,4 @@ For every active Price Book in the org, it goes through each active Product in t
 It finds the Price Book Entry using the Corporate Currency and uses that as the Base Price. 
 It then updates all of the active non Corporate Currency Price Book entries using the base price found in step 3 and the latest Currency Exchange Rates. 
 
-Currency Crusher would also be applicable in the scenario above if the base USD price was changed, and you wanted to automatically update the CAD price without having to do it manually. 
+Currency Crusher would also be applicable in the scenario above if the base price was changed, and you wanted to automatically update the foreign price book entries without having to do it manually. 
