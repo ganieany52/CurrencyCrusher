@@ -6,10 +6,10 @@ Sandbox Install Link: https://test.salesforce.com/packaging/installPackage.apexp
 
 Production Install Link: https://login.salesforce.com/packaging/installPackage.apexp?p0=04t3C000000EcQj
 
-Overview
+Overview: 
 Currency Crusher is designed to help Salesforce owners keep their non corporate currency price book entries aligned with their corporate currency price book entries by using the latest exchange rates. 
 
-How Currency Crusher Works
+How Currency Crusher Works: 
 Currency Crusher uses sophisticated logic to ensure your non corporate currency Price Book Entries always reflect the latest exchange rates. Below is the high level logic:
 Automatically detects the organization's corporate currency
 For every active Price Book in the org, it goes through each active Product in that Price Book one at a time. 
